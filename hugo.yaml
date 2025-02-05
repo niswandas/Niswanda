@@ -1,0 +1,67 @@
+baseURL:
+languageCode: en-us
+title: Niswanda.
+theme: ["PaperMod"]
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+menu:
+  main:
+    - identifier: About
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 20
+    - identifier: blog
+      name: Blog
+      url: /posts/
+      weight: 30
+    - identifier: Archives
+      name: Archives
+      url: /archives/
+      weight: 40
+      
+      
+
+params:
+  profileMode:
+    enabled: false
+    title: "<Title>" # optional default will be site title
+    subtitle: "This is subtitle"
+    imageUrl: img/firstforhugo.jpg # optional
+    imageWidth: 50 # custom size
+    imageHeight: 50 # custom size
+
+
+  homeInfoParams:
+    title: 'Halo, Saya Niswanda 👋🏽'
+    Content: 'This site will be filled with my thoughts and mostly is a documentation for myself while I am studying or sharing something. If you need my help ASAP, you can contact me through one of my Social Media below or you can go to my **Contact** Page.'
+  SocialIcons:
+    - name: instagram
+      url: "https://instagram.com/tuluuss"
+    - name: github
+      url: ""
+    - name: linkedin
+      url: ""
+
+  author: ''
+
+ShowReadingTime: true
+
+ShowShareButtons: true
+
+ShowPostNavLinks: true
+
+ShowBreadCrumbs: true
+
+ShowToc: true
+
+comments: true
+
+  
