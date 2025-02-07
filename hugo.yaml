@@ -1,4 +1,4 @@
-baseURL: https://niswandas.github.io/Niswanda/
+baseURL: 'https://niswandas.github.io/Niswanda/'
 languageCode: en-us
 title: Niswanda.
 theme: 'PaperMod'
