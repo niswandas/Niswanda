@@ -55,6 +55,10 @@ jobs:
         run: git submodule update --init --recursive
       - name: Update theme to Latest commit
         run: git submodule update --remote --merge
+        run: |
+          git config --global user.email "agungniswandaa@gmail.com"
+          git config --global user.name "niswandas"
+
       - name: Build with Hugo
         run: |
           hugo \
