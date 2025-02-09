@@ -60,8 +60,8 @@ jobs:
           hugo \
             --buildDrafts --gc \
             --baseURL ${{ steps.pages.outputs.base_url }}
-            git config user.name 'dhij'
-            git config user.email 'davidhwang.ij@gmail.com'
+            git config user.name 'niswandas'
+            git config user.email 'agungniswandaa@gmail.com'
             git commit -m 'Updated site'
             git push
       - name: Upload artifact
