@@ -2,6 +2,7 @@
 date: '2025-02-10T13:16:50+07:00'
 draft: false
 title: 'Best SIM Card In Indonesia : Best Overall For Tourist in 2025'
+descrition: 'Find the best SIM card in Indonesia for tourists in 2025! Compare prices, data plans, coverage, and tips to stay connected during your trip.'
 cover: 
     image: img/firstforhugo.jpg
     alt: 'first img'
