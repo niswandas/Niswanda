@@ -13,6 +13,9 @@ ShowBreadCrumbs: true
 Author: 'Niswanda'
 ---
 
+## Why You Need a SIM Card in Indonesia as a Tourist
+
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ligula enim, luctus eget velit ut, blandit hendrerit sem. Proin nec tellus id elit fringilla vestibulum in sit amet justo. Aliquam ac mi feugiat mauris placerat aliquet. Etiam lobortis, lacus non iaculis cursus, sem diam molestie lorem, at congue ante orci ac est. Pellentesque mauris tellus, tincidunt vehicula tempor eget, placerat sollicitudin dolor. Sed varius erat eu sem accumsan feugiat. Nullam pretium, erat eu pharetra consequat, magna lectus blandit libero, non rhoncus magna leo non lectus. Vivamus fermentum scelerisque hendrerit. Integer feugiat vel justo nec aliquet. Vestibulum in finibus mi, in egestas nisl. Nullam tristique dolor vitae arcu posuere, consectetur dignissim ante interdum.
 
 ## TELKOMSEL
