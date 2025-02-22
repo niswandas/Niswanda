@@ -78,11 +78,11 @@ Currently, I am based in Semarang, Central Java. If you visit Semarang, you can 
 
 ## Tips for Using Your SIM Card in Indonesia
 
-- Jika kamu berencana untuk mengunjungi Indonesia dengan jangka waktu yang lama, seperti 2-3 bulan. Anda bisa melakukan top up di local shop seperti **Indomaret* atau  *Alfamart,** dua toko lokal ini menyediakan berbagai macam nominal untuk anda bisa mengisi ulang credit agar anda bisa membeli paket Internet setiap bulannya.
+- If you plan to stay in Indonesia for a long time, like 2-3 months, you can top up your credit at local shops like **Indomaret** or **Alfamart**. These stores offer various top-up amounts so you can recharge and buy internet packages monthly.
 
-- Pakailah aplikasi khusus yang disediakan oleh provider yang anda gunakan seperti MyTelkomsel, MyXL, MySmartfren. Agar anda bisa tetap memonitoring sisa credit, Kuota Internet, dan masa aktif kartu prabayar anda. Mungkin anda tertawa melihat nama aplikasi dari setiap provider karena memiliki nama yang sama.
+- Use the official apps provided by your SIM card provider, such as **MyTelkomsel**, **MyXL**, or **MySmartfren**, to monitor your remaining credit, internet quota, and prepaid card validity. You might find it funny that all the apps have similar names.
 
-- Sebelum anda membeli paket internet, pastikan anda membaca syarat ketentuan yang berlaku untuk penggunaan paket Internet yang henda anda beli. Karena beberapa paket internet ada yang tidak bisa digunakan secara penuh. Saran terbaik saya jika anda mengunjungi gerai dari salah satu provider tersebut, contohnya GraPARI, anda bisa bertanya dengan Customer Service yang ada disana.
+- Before buying an internet package, make sure to read the terms and conditions. Some packages may have restrictions or limitations. If you’re unsure, visit a provider’s store (e.g., GraPARI) and ask the customer service team for help.
 
 ## Conclusion
 
