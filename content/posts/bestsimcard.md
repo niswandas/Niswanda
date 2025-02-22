@@ -72,7 +72,7 @@ Currently, I am based in Semarang, Central Java. If you visit Semarang, you can 
 
 ```Jl. Pahlawan No.10, Pleburan, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50241```
 
-**Jakarta.**
+- **Jakarta.**
 
 ```Ruko Mutiara Palem Blok A2, Jl. Bumi Cengkareng Indah No. 11, Kec. Cengkareng, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11730```
 
