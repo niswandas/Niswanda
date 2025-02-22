@@ -68,5 +68,5 @@ Currently, I am based in Semarang, Central Java. If you visit Semarang, you can 
 > A little tips from me, **if you are a tourist** and you planning to travel to **Java Island** and **Bali.** Just go to GrapARI at java island (e.g., Semarang).  You’ll thank me later.
 >
 - **Semarang, Central Java.**
-==Jl. Pahlawan No.10, Pleburan, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50241==
+Jl. Pahlawan No.10, Pleburan, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50241
 
