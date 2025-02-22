@@ -59,6 +59,7 @@ Unlike Telkomsel or XL, Smartfren does not require IMEI registration for foreign
 If your budget is tight and you don’t often visit crowded areas, this is the best option in my opinion. However, do not rely on this provider if you plan to go to remote locations or very crowded places like Jakarta, Bali, Yogyakarta, etc.
 
 From the explanation above, you should now be able to decide on your preferred provider, considering factors like signal and coverage, as well as the ease of using the SIM card.
+
 ## Where to Buy a SIM Card in Indonesia
 
 I will always update the list of places (GraPARI) where you can get a Telkomsel SIM card.
@@ -68,5 +69,27 @@ Currently, I am based in Semarang, Central Java. If you visit Semarang, you can 
 > A little tips from me, **if you are a tourist** and you planning to travel to **Java Island** and **Bali.** Just go to GrapARI at java island (e.g., Semarang).  You’ll thank me later.
 >
 - **Semarang, Central Java.**
+
 ```Jl. Pahlawan No.10, Pleburan, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50241```
 
+**Jakarta.**
+
+```Ruko Mutiara Palem Blok A2, Jl. Bumi Cengkareng Indah No. 11, Kec. Cengkareng, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11730```
+
+## Tips for Using Your SIM Card in Indonesia
+
+- Jika kamu berencana untuk mengunjungi Indonesia dengan jangka waktu yang lama, seperti 2-3 bulan. Anda bisa melakukan top up di local shop seperti *Indomaret* atau  *Alfamart,* dua toko lokal ini menyediakan berbagai macam nominal untuk anda bisa mengisi ulang credit agar anda bisa membeli paket Internet setiap bulannya.
+
+- Pakailah aplikasi khusus yang disediakan oleh provider yang anda gunakan seperti MyTelkomsel, MyXL, MySmartfren. Agar anda bisa tetap memonitoring sisa credit, Kuota Internet, dan masa aktif kartu prabayar anda. Mungkin anda tertawa melihat nama aplikasi dari setiap provider karena memiliki nama yang sama.
+
+- Sebelum anda membeli paket internet, pastikan anda membaca syarat ketentuan yang berlaku untuk penggunaan paket Internet yang henda anda beli. Karena beberapa paket internet ada yang tidak bisa digunakan secara penuh. Saran terbaik saya jika anda mengunjungi gerai dari salah satu provider tersebut, contohnya GraPARI, anda bisa bertanya dengan Customer Service yang ada disana.
+
+## Conclusion
+
+Staying connected in Indonesia is crucial for navigation, sharing experiences, and accessing information. A local SIM card is the best way to get affordable and reliable internet across the country. 
+
+Telkomsel is the top choice due to its wide coverage, affordable plans, and free IMEI registration for tourists at GraPARI stores. XL is a good option for major tourist areas, while Smartfren is budget-friendly but may have weaker coverage in remote locations.
+
+When buying a SIM card, consider coverage, data plans, and ease of use. For long stays, you can top up at local shops like Indomaret or Alfamart. 
+
+Use provider apps (e.g., MyTelkomsel) to track your usage and always check the terms of data packages. With the right SIM card, you’ll have a smooth and connected trip to Indonesia in 2025!
