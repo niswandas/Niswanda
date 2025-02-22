@@ -28,7 +28,7 @@ Plus, with competitive data plans and prices, staying connected in Indonesia has
 
 ## Top 3 SIM Cards for Tourists in Indonesia (2025)
 
-1. **TELKOMSEL**
+**1. TELKOMSEL**
 
 I will write this section based on my personal experience as a user and as a employee when i working in **Telkomsel.** This might sound **biased**, but I can also provide accurate information since I worked at this company.
 
@@ -68,12 +68,5 @@ Currently, I am based in Semarang, Central Java. If you visit Semarang, you can 
 > A little tips from me, **if you are a tourist** and you planning to travel to **Java Island** and **Bali.** Just go to GrapARI at java island (e.g., Semarang).  You’ll thank me later.
 >
 - **Semarang, Central Java.**
-
-<aside>
-📍
-
-Jl. Pahlawan No.10, Pleburan, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50241
-
-</aside>
-
+==Jl. Pahlawan No.10, Pleburan, Kec. Semarang Sel., Kota Semarang, Jawa Tengah 50241==
 
